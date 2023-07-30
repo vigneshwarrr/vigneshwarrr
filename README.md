@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vigneshwarrr
-- 👀 I’m interested in Robotics and Graphics
-- 🌱 I’m currently studying Mechatronics Engineering
+- 👀 I’m interested in Web Developement, Robotics and Graphics
+- 🌱 Mechatronics Engineering Undergrad, Web Developer at the moment
 - 📫 Reach me at my LinkedIn https://www.linkedin.com/in/vigneshwar-m-63bba1187/
 
 <!---
